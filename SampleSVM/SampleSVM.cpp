@@ -58,6 +58,10 @@ int main(int argc, char ** argv)
 			return -1;
 		}
 
+		cout << "Step 3 : Generate Training Matrix for SVM ! [START] " << endl;
+
+		// Training Matrix
+
 		cout << "Step 3 : Generate Training Matrix for SVM ! [OK] " << endl;
 
 		// Initialize SVM
